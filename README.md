@@ -16,18 +16,20 @@ https://xiongxyang.gitee.io/home/
 小说精品屋-download是基于[小说精品屋-plus](https://github.com/201206030/novel-plus)改造的小说TXT下载网站，安装使用方法和[小说精品屋-plus](https://github.com/201206030/novel-plus)保持一致，主要特色如下：
 
 1. 服务器只保存小说关键信息，不保存章节内容，减少硬盘占用和提升爬取效率（1小时大约可爬取10万本小说）。
-2. 多爬虫源配置，增加小说资源的有效性。
+2. 多爬虫源配置，提高小说资源的有效性。
 3. 爬虫规则和项目安装使用方式和[小说精品屋-plus](https://github.com/201206030/novel-plus)保持一致，减少学习成本。
 
 
 
 #### 截图
 
-  ![mini-code](https://s3.ax1x.com/2020/12/17/r8QzBq.png)![mini-code](https://s3.ax1x.com/2020/12/17/r8l8vd.png)
+  <img src="https://s3.ax1x.com/2020/12/18/rGzOd1.jpg" alt="mini-code" style="zoom: 33%;" /><img src="https://s3.ax1x.com/2020/12/18/rJSkdI.jpg" alt="mini-code" style="zoom:33%;" />
 
 
 
-![mini-code](https://s3.ax1x.com/2020/12/17/r8lyKs.png)
+<img src="https://s3.ax1x.com/2020/12/18/rJSKyQ.jpg" alt="mini-code" style="zoom:33%;" /><img src="https://s3.ax1x.com/2020/12/18/rJS1wn.jpg" alt="mini-code" style="zoom:33%;" />
+
+<img src="https://s3.ax1x.com/2020/12/18/rJSYWT.jpg" alt="mini-code" style="zoom:33%;" /><img src="https://s3.ax1x.com/2020/12/18/rJSay4.jpg" alt="mini-code" style="zoom:33%;" />
 
 #### QQ交流群
 
