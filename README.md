@@ -2,10 +2,6 @@
 
 # 小说精品屋-download
 
-#### 前言
-
-该项目主要是给小说爱好者提供一个全网搜索和下载的工具，只保证了基本功能的稳定，直接使用即可，因为是基于小说精品屋-plus改造的，里面涉及了小说精品屋-plus相关的很多冗余代码没有删掉，看起来比较乱，代码就不要看了，为了避免被大佬喷，暂时只保留安装包，源码先删掉，后面整理好了再重新上传😄。
-
 #### 官网
 
 https://xiongxyang.gitee.io/home/
@@ -13,6 +9,9 @@ https://xiongxyang.gitee.io/home/
 #### 演示地址
 
  [点击前往，已保存全网数十万条热门小说数据](http://47.106.243.172:8080/)
+ 
+#### 下载地址
+[https://github.com/201206030/novel-download/releases](https://github.com/201206030/novel-download/releases)
 
 
 #### 项目介绍
